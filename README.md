@@ -22,6 +22,9 @@ Quantas empresas a cidade tem, em quais setores elas estão, o porte e a idade d
 ### 07 - Crimes violentos em Uberlândia
 Registros de crimes violentos de 2019 a 2025, tipos de crime, série de homicídios com taxa por 100 mil e tendência mensal. Fonte: SEJUSP-MG, dados abertos de Minas Gerais.
 
+### 08 - As escolas de Uberlândia
+Escolas, matrículas e perfil dos alunos da cidade. Fonte: Censo Escolar 2025, INEP.
+
 ### 09 - Frota por habitante: Uberlândia e outras cidades
 A frota de Uberlândia comparada com Belo Horizonte, Contagem, Juiz de Fora e Uberaba, por habitante. Fontes: Senatran e IBGE (Censo 2022).
 
