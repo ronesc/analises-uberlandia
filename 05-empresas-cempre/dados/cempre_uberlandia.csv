@@ -1,0 +1,70 @@
+grupo,categoria,empresas
+setor_cnae,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",460
+setor_cnae,B Indústrias extrativas,38
+setor_cnae,C Indústrias de transformação,2491
+setor_cnae,D Eletricidade e gás,32
+setor_cnae,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",83
+setor_cnae,F Construção,3843
+setor_cnae,G Comércio; reparação de veículos automotores e motocicletas,12929
+setor_cnae,"H Transporte, armazenagem e correio",2144
+setor_cnae,I Alojamento e alimentação,2010
+setor_cnae,J Informação e comunicação,2679
+setor_cnae,"K Atividades financeiras, de seguros e serviços relacionados",2036
+setor_cnae,L Atividades imobiliárias,2006
+setor_cnae,"M Atividades profissionais, científicas e técnicas",5627
+setor_cnae,N Atividades administrativas e serviços complementares,7542
+setor_cnae,"O Administração pública, defesa e seguridade social",29
+setor_cnae,P Educação,1618
+setor_cnae,Q Saúde humana e serviços sociais,3891
+setor_cnae,"R Artes, cultura, esporte e recreação",734
+setor_cnae,S Outras atividades de serviços,2372
+faixa_funcionarios,0 a 4,44643
+faixa_funcionarios,5 a 9,4491
+faixa_funcionarios,10 a 19,2053
+faixa_funcionarios,20 a 29,549
+faixa_funcionarios,30 a 49,372
+faixa_funcionarios,50 a 99,245
+faixa_funcionarios,100 a 249,128
+faixa_funcionarios,250 a 499,42
+faixa_funcionarios,500 ou mais,41
+ano_fundacao,Até 1966,60
+ano_fundacao,1967 a 1970,67
+ano_fundacao,1971 a 1980,416
+ano_fundacao,1981 a 1990,1581
+ano_fundacao,1991 a 1995,1636
+ano_fundacao,1996 a 2000,2515
+ano_fundacao,2001 a 2003,1678
+ano_fundacao,2004,626
+ano_fundacao,2005,596
+ano_fundacao,2006,609
+ano_fundacao,2007,694
+ano_fundacao,2008,787
+ano_fundacao,2009,905
+ano_fundacao,2010,1191
+ano_fundacao,2011,1354
+ano_fundacao,2012,1415
+ano_fundacao,2013,1503
+ano_fundacao,2014,1503
+ano_fundacao,2015,1622
+ano_fundacao,2016,1665
+ano_fundacao,2017,1893
+ano_fundacao,2018,2352
+ano_fundacao,2019,2838
+ano_fundacao,2020,3301
+ano_fundacao,2021,3911
+ano_fundacao,2022,4260
+ano_fundacao,2023,5185
+ano_fundacao,2024,6401
+total_ano,2022,44336
+total_ano,2023,48191
+total_ano,2024,52564
+pessoal_ocupado,2017,241010
+pessoal_ocupado,2018,239710
+pessoal_ocupado,2019,245920
+pessoal_ocupado,2020,245295
+pessoal_ocupado,2021,262189
+salario_medio,2017,2508.95
+salario_medio,2018,2577.54
+salario_medio,2019,2572.07
+salario_medio,2020,2672.46
+salario_medio,2021,2914.92
